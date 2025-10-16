@@ -1,2 +1,2 @@
 # Purchase-E-Smoke
-A demo e-commerce website for wall frames and artwork, built to showcase modern web design and shopping flow.
+FramesForWall is a modern demo e-commerce website showcasing wall art and photo frames. It features a stylish product catalog, responsive design, and smooth shopping experience — built to demonstrate a full-featured online store layout with product pages, categories, and secure checkout flow.
